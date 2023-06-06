@@ -1,6 +1,5 @@
 ---
-title: "Vi er F-laget!"
+title: "We are Contosot!"
 headless: true
 ---
-
- Husk å resirkulere!
+We’re the next level drone making company
