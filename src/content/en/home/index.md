@@ -1,6 +1,6 @@
 ---
-title: "We are Contoso"
+title: "Vi er F-laget!"
 headless: true
 ---
 
-We're the next level drone making company
+ Husk å resirkulere!
