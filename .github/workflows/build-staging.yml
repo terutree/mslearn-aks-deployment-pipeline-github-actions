@@ -36,3 +36,10 @@ jobs:
           context: .
           tags: ${{secrets.ACR_NAME}}/contoso-website:latest
           push: true
+          
+  deploy:
+    runs-on: ubuntu-20.04
+    needs: build_push_image 
+   
+    steps:
+      - uses: actions/checkout@v2
