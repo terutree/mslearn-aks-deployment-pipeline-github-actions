@@ -47,7 +47,7 @@ jobs:
           resource-group: mslearn-gh-pipelines-7873
           cluster-name: contoso-video
           
-      - name: Run Helm Deploy
+      - name: Run Helm Deploy #please
         run: |
           helm upgrade \
             --install \
